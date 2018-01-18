@@ -1,0 +1,70 @@
+hdgahdgh 
+ass
+jhsaj
+//abc
+/* abhs
+hshs
+public class jhaj
+jhajd
+
+sjhsj */ class ABC { //shhc
+
+
+public class Test {
+
+	public String abc;
+	private int a;
+	            double c;
+	ArrayList<Student> dsHS=new ArrayList<Student>();
+
+
+		
+	public Test(){
+	}
+	public Test(int a,String st){
+		int x = 1;
+	}
+
+	void set(int a){
+	}
+
+	public void add(){
+			double y= 3;
+			double q=c-y;
+		}
+		
+		public static void main(String [] args){
+			system.out.println("hello world !");
+
+		}
+
+	}
+
+class TestClass{
+	public String Student(){
+        name= "Student";
+        id= "000";
+        group= "K59CB-AAA";
+        email= "uet@vnu.edu.vn";
+        return "Student-0 : " + "name=" + name + ", id=" + id + ", group=" + group + ", email=" + email;
+
+    }    
+    public String Student(Student s){ // coppy
+        name=s.getName();
+        id=s.getId();
+        group=s.getGroup();
+        email=s.getEmail();
+        return "Student-coppy : " + "name=" + name + ", id=" + id + ", group=" + group + ", email=" + email;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
